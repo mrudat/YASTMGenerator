@@ -1,0 +1,8 @@
+{
+  "Nickname": "YASTMGenerator",
+  "Visibility": "Visible",
+  "OneLineDescription": "Generates partially filled soul gems for YASTM",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": []
+}
